@@ -1,0 +1,4 @@
+ce fichier
+sert pour les exercices
+de pyhton
+avec teddy
